@@ -1,0 +1,32 @@
+[theme]
+# Primary color for buttons and highlights
+primaryColor = "#667eea"
+
+# Background color of the main content area
+backgroundColor = "#ffffff"
+
+# Secondary accent color for widgets
+secondaryBackgroundColor = "#f0f2f6"
+
+# Text color
+textColor = "#262730"
+
+# Font to use for body text
+font = "sans serif"
+
+# Preset theme - can be "light" or "dark"
+base = "light"
+
+# Dark mode support
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+port = 8501
+headless = true
