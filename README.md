@@ -1,4 +1,4 @@
-# 🤖 Multi-Tool LLM Agent
+# 🤖 Toolkit-AI: Multi-Tool LLM Agent
 
 An intelligent AI assistant powered by multiple tools, built with Python and Streamlit.
 
@@ -25,5 +25,5 @@ An intelligent AI assistant powered by multiple tools, built with Python and Str
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/multi-tool-llm-agent.git
-cd multi-tool-llm-agent
+git clone https://github.com/adityadevlops-dot/Toolkit-AI.git
+cd Toolkit-AI
